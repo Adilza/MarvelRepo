@@ -1,6 +1,6 @@
 class Conta
     attr_accessor :saldo, :nome
-    def initialize(nome)
+    def initialize(nome)  #construtor
         self.saldo = 0.0
         self.nome= nome
     end 
