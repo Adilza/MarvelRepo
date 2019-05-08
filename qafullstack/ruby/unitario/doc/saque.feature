@@ -10,7 +10,6 @@ Cenário: Saque em conta corrente
     Então meu saldo final deve ser R$ 800
 
 # Repare que no cenário anterior nós usamos o “Dado que” para indicar o cenário atual, o “quando” para indicar a ação do usuário, e o “Então” para indicar como o software vai reagir.
-
 # Podemos também usar o “E” e o “MAS” para criar cenários de teste ainda mais ricos.
 
 Cenário: Deu ruim não tenho saldo
