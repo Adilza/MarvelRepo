@@ -52,7 +52,7 @@ describe AvengersHeadQuarter do
         avenger = 'Peter Parker'
         expect(avenger).to match(/Parker/)
         # contem Parker
-        expect(avenger).not_to match(/Parker/)
+        # expect(avenger).not_to match(/Parker/)
         # não contem 
     end
 
